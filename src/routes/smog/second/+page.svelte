@@ -1,0 +1,1 @@
+<h2>Smog>second page</h2>
