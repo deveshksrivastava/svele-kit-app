@@ -4,6 +4,7 @@
     <a href="/about">About</a>
     <a href="/blog">Blog</a>
     <a href="/smog">Smog</a>
+    <a href="/docs">Docs</a>
     <a href="/products">Products</a>
     <a href="/profile">Profile</a>
   </nav>
