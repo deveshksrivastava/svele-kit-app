@@ -72,3 +72,20 @@ Links & Resources:
 - https://www.learnwithjason.dev/schedule/
 
 ```
+
+Git GUI Comparison Intro
+```
+5:03 GitKraken Client: Best Git GUI Client
+5:03 Sourcetree
+8:17 Fork
+11:45 Tower
+14:16 GitHub Desktop
+16:03 SmartGit 
+16:03 Sublime Merge 
+16:03 GitAhead 
+ 
+
+//https://www.youtube.com/watch?v=w3jiY-UKW6I
+//https://www.youtube.com/watch?v=4cX4HeN6lH8
+```
+

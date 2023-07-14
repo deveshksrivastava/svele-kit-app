@@ -3,7 +3,7 @@
   const greetings = {
     en: 'Hello!',
     es: "Hola!",
-    fr: "Bonjour!"
+    fr: "Bonjour!!"
   }
 
   const {lang = 'en'} = $page.params;
@@ -14,6 +14,8 @@
 <!-- when routes/[lang] -->
 <!-- http://localhost:5173/fr --> 
 <!-- http://localhost:5173/en -->
+
+
 
 <!-- when routes/marketing/[[lang]] -->
 
